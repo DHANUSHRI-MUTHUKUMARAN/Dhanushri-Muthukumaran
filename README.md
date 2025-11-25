@@ -21,3 +21,8 @@ By combining sentiment data with historical trading data, I calculated the avera
 ## 🥧 Win Rate by Sentiment
 ![Pie Chart](Screenshot 2025-11-26 at 1.30.03 AM.png)
 
+📊 Average Profit by Sentiment  
+![Bar Chart](https://raw.githubusercontent.com/DHANUSHRI-MUTHUKUMARAN/bitcoin-sentiment-analysis/main/Screenshot%202025-11-26%20at%201.29.19%20AM.png)
+
+🥧 Win Rate by Sentiment  
+![Pie Chart](https://raw.githubusercontent.com/DHANUSHRI-MUTHUKUMARAN/bitcoin-sentiment-analysis/main/Screenshot%202025-11-26%20at%201.30.03%20AM.png)
