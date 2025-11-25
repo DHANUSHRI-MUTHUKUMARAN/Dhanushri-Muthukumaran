@@ -23,9 +23,9 @@ By combining sentiment data with historical trading data, I calculated the avera
 
 ## Data files are too large for GitHub.
 They can be downloaded from:
-- Historical Trades: <>
-- Fear & Greed Index: <>
-Place both files in /csv_files before running the notebook.
+- Historical Trades: <https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing>
+- Fear & Greed Index: <https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing>
+
 
 
 ## Conclusion:
