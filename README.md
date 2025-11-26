@@ -26,6 +26,8 @@ They can be downloaded from:
 - Historical Trades: <https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing>
 - Fear & Greed Index: <https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing>
 
+## Google Colab link 
+<https://colab.research.google.com/drive/1NxwVMbF6duieG0T8wfSlCG7ihQgSVfG5?usp=sharing>
 ## How to Run
 1. Open the notebook in Google Colab or Jupyter Notebook.
 2. Install dependencies:
